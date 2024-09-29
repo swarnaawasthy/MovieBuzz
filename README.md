@@ -1,15 +1,17 @@
 # moviemuse
 
-A new Flutter project.
+Flutter Project Following Clean Architecture with BLoC State Management
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Flutter project implements Clean Architecture principles, utilizing BLoC (Business Logic Component) for state management.
 
-A few resources to get you started if this is your first Flutter project:
+API: https://www.episodate.com/api
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![MovieMuse1](https://github.com/user-attachments/assets/d82f185a-f835-4fa6-a675-813f812d5345)
+![MovieMuse2](https://github.com/user-attachments/assets/58056050-c733-4448-84b2-b9195a18e700)
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
