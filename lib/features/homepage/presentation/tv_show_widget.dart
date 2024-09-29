@@ -58,7 +58,7 @@ class VerticalTVShowList extends StatelessWidget {
             margin: const EdgeInsets.symmetric(vertical: 4,horizontal: 12),
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(20.0),
-              color: const Color(0xFFd68910),
+              color: CustomColor.orangeColor,
             ),
             padding: const EdgeInsets.all(4),
             child: ListTile(
